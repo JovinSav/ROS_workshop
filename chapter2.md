@@ -111,6 +111,10 @@ which outputs
 /turtle1/pose
 ```
 ---
+<div align="left">
+  <a href="https://jovinsav.github.io/Rosworkshop/chapter1.html">Back to:Chapter 1</a>
+</div>
 
-* [Back to:Chapter 1](https://jovinsav.github.io/Rosworkshop/chapter1.html)
-* [Next:Chapter 3](https://jovinsav.github.io/Rosworkshop/chapter3.html)
+<div align="right">
+  <a href="https://jovinsav.github.io/Rosworkshop/chapter3.html">Next to:Chapter 3</a>
+</div>

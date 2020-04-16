@@ -1,3 +1,8 @@
+<div align="left">
+  <a href="https://jovinsav.github.io/Rosworkshop/">HOME</a>
+</div>
+
+---
 # ROS services
 The publish / subscribe model is a very flexible communication paradigm, but its many-to-many one-way transport is not appropriate for RPC request / reply interactions, which are often required in a distributed system. Request / reply is done via a Service, which is defined by a pair of messages: one for the request and one for the reply. A providing ROS node offers a service under a string name, and a client calls the service by sending the request message and awaiting the reply. Client libraries usually present this interaction to the programmer as if it were a remote procedure call.
 
@@ -195,6 +200,6 @@ Let us create service server
 3. create your own rosnode with serviceserver ,publisher and subscriber
 
 ---
-* [HOME](https://jovinsav.github.io/Rosworkshop/)
+
 * [Back to:Chapter 5](https://jovinsav.github.io/Rosworkshop/chapter5.html)
 * END

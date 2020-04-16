@@ -1,3 +1,6 @@
+<div align="left">
+  <a href="https://jovinsav.github.io/Rosworkshop/">HOME</a>
+</div>
 # Welocme to introdution to  ROS
 I hope all have installed Vritual box and and installed the ROSworkshop image which contain ROS
 open termial with
@@ -65,5 +68,7 @@ source ~/ROSworksop/devel/setup.sh
 echo "source ~/ROSworksop/devel/setup.sh" >> .bashrc
 ```
 ---
-* [HOME](https://jovinsav.github.io/Rosworkshop/)
-* [Next to:Chapter 2](https://jovinsav.github.io/Rosworkshop/chapter2.html)
+<div align="right">
+  <a href="https://jovinsav.github.io/Rosworkshop/chapter2.html">Next to:Chapter 2</a>
+</div>
+

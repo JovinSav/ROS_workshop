@@ -5,4 +5,4 @@ relative_links:
   enabled: true
   collections: true
 include:
- -Chapter1.md
+ - Chapter1.md

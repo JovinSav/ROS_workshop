@@ -250,3 +250,4 @@ if __name__ == '__main__':
 * __ROSmsg struture which is use full to your rosnode__
 * __Freqency of publisher node and subscriber__
 * __Suitable qeue size of subscribe node (mainly depends upon Freqency of publisher)__
+

@@ -64,4 +64,5 @@ source ~/ROSworksop/devel/setup.sh
 # to avoid it
 echo "source ~/ROSworksop/devel/setup.sh" >> .bashrc
 ```
-
+* [HOME](https://jovinsav.github.io/Rosworkshop/)
+* [Chapter 2](https://jovinsav.github.io/Rosworkshop/chapter2.html)

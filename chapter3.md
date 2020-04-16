@@ -257,6 +257,10 @@ if __name__ == '__main__':
 * __Suitable qeue size of subscribe node (mainly depends upon Freqency of publisher)__
 ---
 
-* [Back to:Chapter 2](https://jovinsav.github.io/Rosworkshop/chapter2.html)
-* [Next :Chapter 4](https://jovinsav.github.io/Rosworkshop/chapter4.html)
+<div align="left">
+  <a href="https://jovinsav.github.io/Rosworkshop/chapter2.html">Back to:Chapter 2</a>
+</div>
 
+<div align="right">
+  <a href="https://jovinsav.github.io/Rosworkshop/chapter4.html">Next to:Chapter 4</a>
+</div>

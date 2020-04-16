@@ -64,3 +64,4 @@ source ~/ROSworksop/devel/setup.sh
 # to avoid it
 echo "source ~/ROSworksop/devel/setup.sh" >> .bashrc
 ```
+

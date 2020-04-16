@@ -1,3 +1,8 @@
+<div align="left">
+  <a href="https://jovinsav.github.io/Rosworkshop/">HOME</a>
+</div>
+
+---
 # ROS launch files
 For bigger projects it should be not easy to open up differnt terminals to
 different nodes and ROS process So **ROS** had provided a solution known as
@@ -39,6 +44,6 @@ Lauch files are in XML format
 
    ```
 ---
-* [HOME](https://jovinsav.github.io/Rosworkshop/)
+
 * [Back to:Chapter 3](https://jovinsav.github.io/Rosworkshop/chapter3.html)
 * [Next :Chapter 5](https://jovinsav.github.io/Rosworkshop/chapter5.html)

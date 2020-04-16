@@ -151,5 +151,10 @@ ___
  ```
 ---
 
-* [Back to:Chapter 4](https://jovinsav.github.io/Rosworkshop/chapter4.html)
-* [Next :Chapter 6](https://jovinsav.github.io/Rosworkshop/chapter6.html)
+<div align="left">
+  <a href="https://jovinsav.github.io/Rosworkshop/chapter4.html">Back to:Chapter 4</a>
+</div>
+
+<div align="right">
+  <a href="https://jovinsav.github.io/Rosworkshop/chapter6.html">Next to:Chapter 6</a>
+</div>

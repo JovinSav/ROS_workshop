@@ -1,3 +1,8 @@
+<div align="left">
+  <a href="https://jovinsav.github.io/Rosworkshop/">HOME</a>
+</div>
+
+---
 # Let's understand ROS framework
 
 
@@ -106,6 +111,6 @@ which outputs
 /turtle1/pose
 ```
 ---
-* [HOME](https://jovinsav.github.io/Rosworkshop/)
+
 * [Back to:Chapter 1](https://jovinsav.github.io/Rosworkshop/chapter1.html)
 * [Next:Chapter 3](https://jovinsav.github.io/Rosworkshop/chapter3.html)

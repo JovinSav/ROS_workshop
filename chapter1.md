@@ -65,5 +65,8 @@ source ~/ROSworksop/devel/setup.sh
 echo "source ~/ROSworksop/devel/setup.sh" >> .bashrc
 ```
 ---
+<div align="left">
+
 * [HOME](https://jovinsav.github.io/Rosworkshop/)
+</div>
 * [Next to:Chapter 2](https://jovinsav.github.io/Rosworkshop/chapter2.html)

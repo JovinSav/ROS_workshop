@@ -45,5 +45,10 @@ Lauch files are in XML format
    ```
 ---
 
-* [Back to:Chapter 3](https://jovinsav.github.io/Rosworkshop/chapter3.html)
-* [Next :Chapter 5](https://jovinsav.github.io/Rosworkshop/chapter5.html)
+<div align="left">
+  <a href="https://jovinsav.github.io/Rosworkshop/chapter3.html">Back to:Chapter 3</a>
+</div>
+
+<div align="right">
+  <a href="https://jovinsav.github.io/Rosworkshop/chapter5.html">Next to:Chapter 5</a>
+</div>

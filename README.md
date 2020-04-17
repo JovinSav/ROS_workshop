@@ -7,6 +7,4 @@
 * [Chapter 5](https://jovinsav.github.io/Rosworkshop/chapter5.html)
 * [Chapter 6](https://jovinsav.github.io/Rosworkshop/chapter6.html)
 
-<video width="320" height="200" controls preload>
-    <source src="https://JovinSav.github.com/Rosworkshop/nn-2020-04-17_15.05.06.mp4"></source> 
-</video>
+

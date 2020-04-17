@@ -143,12 +143,13 @@ ___
 # DIY
 1. create subscriber to subsribe for above published topic
 2. create ROSmsg with output fibonocci series and Arethemetic progression
+
  ```
  int32 count
  float64[] fibonocci
  float64[] ap
+```
 
- ```
 ---
 
 <div align="left">

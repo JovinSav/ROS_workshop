@@ -250,7 +250,7 @@ if __name__ == '__main__':
 
 ```
 
-<video width="600" height="600" controls preload>
+<video width="600" height="300" controls preload>
     <source src="nn-2020-04-17_15.05.06.mp4"></source> 
 </video>
 

@@ -250,12 +250,6 @@ if __name__ == '__main__':
 
 ```
 
-<video width="300" height="240" controls preload>
-    <source src="nn-2020-04-17_15.05.06.mp4"></source> 
-</video>
-
-
-
 ## *Important points in pub/sub nodes*
 * __Topic name subsribing to__
 * __ROSmsg struture which is use full to your rosnode__

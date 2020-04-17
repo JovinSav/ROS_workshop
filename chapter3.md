@@ -262,9 +262,11 @@ if __name__ == '__main__':
 * __Suitable qeue size of subscribe node (mainly depends upon Freqency of publisher)__
 ---
 
+
 <video width="320" height="200" controls preload>
     <source src="https://JovinSav.github.com/Rosworkshop/nn-2020-04-17_15.05.06.mp4"></source> 
 </video>
+
 
 <div align="right">
   <a href="https://jovinsav.github.io/Rosworkshop/chapter4.html">Next to:Chapter 4</a>

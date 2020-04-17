@@ -46,6 +46,15 @@ Lauch files are in XML format
    </launch>
 
    ```
+### Lets RUN it
+```bash
+roslaunch rosbasics Myfirst.launch
+```
+
+<video width="600" height="240" controls preload>
+    <source src="nn-2020-04-17_15.05.06.mp4"></source> 
+</video>
+   
 ---
 
 <div align="left">

@@ -250,6 +250,9 @@ if __name__ == '__main__':
 
 ```
 
+<video width="600" height="600" controls preload>
+    <source src="https://JovinSav.github.com/Rosworkshop/nn-2020-04-17_15.05.06.mp4"></source> 
+</video>
 
 
 ## *Important points in pub/sub nodes*

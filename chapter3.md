@@ -263,11 +263,10 @@ if __name__ == '__main__':
 ---
 
 
-<video width="320" height="200" controls preload>
-    <source src="https://JovinSav.github.com/Rosworkshop/nn-2020-04-17_15.05.06.mp4"></source> 
-</video>
 
-
+<div align="left">
+  <a href="https://jovinsav.github.io/Rosworkshop/chapter2.html">Back to:Chapter 2</a>
+</div>
 <div align="right">
   <a href="https://jovinsav.github.io/Rosworkshop/chapter4.html">Next to:Chapter 4</a>
 </div>

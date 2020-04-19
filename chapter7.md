@@ -187,7 +187,7 @@ roslaunch roslaunch roslaunch rosbasics urdf.launch model:=box.urdf
  ```
  
 <video width="600" height="240" controls preload>
-    <source src="nn-2020-04-17_15.05.06.mp4"></source> 
+    <source src="rviz-2020.mp4"></source> 
 </video>
 
  ---

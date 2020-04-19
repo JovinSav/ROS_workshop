@@ -185,6 +185,11 @@ sudo apt-get install ros-melodic-joint_state_publisher_gui
  ```bash
 roslaunch roslaunch roslaunch rosbasics urdf.launch model:=box.urdf
  ```
+ 
+ <video width="600" height="240" controls preload>
+    <source src="rviz-2020.mp4"></source> 
+</video>
+
  ---
 <div align="left">
   <a href="https://jovinsav.github.io/Rosworkshop/chapter6.html">Back to:Chapter 6</a>

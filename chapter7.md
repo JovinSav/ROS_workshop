@@ -186,7 +186,7 @@ sudo apt-get install ros-melodic-joint_state_publisher_gui
 roslaunch roslaunch roslaunch rosbasics urdf.launch model:=box.urdf
  ```
  
- <video width="600" height="240" controls preload>
+<video width="600" height="240" controls preload>
     <source src="rviz-2020.mp4"></source> 
 </video>
 

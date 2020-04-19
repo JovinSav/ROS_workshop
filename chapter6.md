@@ -205,5 +205,5 @@ Let us create service server
 </div>
 
 <div align="right">
-  END
+  <a href="https://jovinsav.github.io/Rosworkshop/chapter7.html">Back to:Chapter 7</a>
 </div>

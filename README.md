@@ -10,9 +10,9 @@
 
 <script type = "text/javascript" src = "myscript.js" ></script>
  <script type = "text/javascript">
-         <!--
+
             document.write("Hello World")
-         //-->
-      </script>
+        
+   </script>
       
  <input type = "button" onclick = "sayHello()" value = "Say Hello" />

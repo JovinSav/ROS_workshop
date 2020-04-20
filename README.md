@@ -8,3 +8,4 @@
 * [Chapter 6](https://jovinsav.github.io/Rosworkshop/chapter6.html)
 * [Chapter 7](https://jovinsav.github.io/Rosworkshop/chapter7.html)
 
+<script type = "text/javascript" src = "myscript.js" ></script>

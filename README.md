@@ -1,6 +1,6 @@
 # Ros Guide
 # Welcome to ROS (***ROBOTICS OPERATING SYSTEM***)
-Hi I am Jovin The instructor for ROS course, before we deep dive into ROS 
+Hi I am <a href="https://www.linkedin.com/in/jovin-savio-a1037a8b/" >Jovin Savio</a> The instructor for ROS course, before we deep dive into ROS 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1024px-Ros_logo.svg.png"  height="200" />
 <br>
 ## Important points before learning ROS

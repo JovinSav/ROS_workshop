@@ -207,3 +207,12 @@ check this using to check every thing fine
  ```bash
  urdf_to_graphiz ~/ROS_Worksop/src/rosbasics/urdf/test.urdf
  ```
+
+
+<div align="left">
+  <a href="https://jovinsav.github.io/Rosworkshop/chapter7.html">Back to:Chapter 7</a>
+</div>
+
+<div align="right">
+  <a href="https://jovinsav.github.io/Rosworkshop/chapter7.2.html">next to:Chapter 7.2</a>
+</div>

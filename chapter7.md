@@ -1,7 +1,3 @@
-<div align="left">
-  <a href="https://jovinsav.github.io/Rosworkshop/">HOME</a>
-</div>
-
 # URDF
 URDF stands for ***'Unified Robot Description Format'***.
 The Unified Robot Description Format (URDF) is an XML specification to describe a robot. We attempt to keep this specification as general as possible, but obviously the specification cannot describe all robots. The main limitation at this point is that only tree structures can be represented, ruling out all parallel robots. Also, the specification assumes the robot consists of rigid links connected by joints; flexible elements are not supported. The specification covers:
@@ -185,17 +181,3 @@ sudo apt-get install ros-melodic-joint_state_publisher_gui
  ```bash
 roslaunch roslaunch roslaunch rosbasics urdf.launch model:=box.urdf
  ```
- 
-<video width="600" height="240" controls preload>
-    <source src="rviz-2020.mp4"></source> 
-</video>
-
- ---
-<div align="left">
-  <a href="https://jovinsav.github.io/Rosworkshop/chapter6.html">Back to:Chapter 6</a>
-</div>
-
-<div align="right">
-  END
-</div>
-

@@ -187,7 +187,7 @@ roslaunch roslaunch roslaunch rosbasics urdf.launch model:=box.urdf
 </div>
 
 <div align="right">
-  <a href="https://jovinsav.github.io/Rosworkshop/chapter7.1.html">Back to:Chapter 7.1</a>
+  <a href="https://jovinsav.github.io/Rosworkshop/chapter7.1.html">Next to:Chapter 7.1</a>
 </div>
 
 

@@ -5,8 +5,8 @@ Hi I am <a href="https://www.linkedin.com/in/jovin-savio-a1037a8b/" >Jovin Savio
 <br>
 ## Important points before learning ROS
 * ROS is hard to learn due to the reason it is made (avg 6 months if new to programming and embedded systems,3 months if you know programming)
-* ROS is not a operating system its a farmework
- * Since it is a farmework and this framework can be utlized by all programming langauges available now
+* ROS is not a operating system its a middleware
+ * Since it is a middleware and this can be utlized by all programming langauges available now
 <img src= "https://edu.varistor.in/wp-content/uploads/top-10-programming-languages-to-learn-in-2020.jpg"  height="400" />
 <br>
 

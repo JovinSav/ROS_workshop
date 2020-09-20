@@ -23,5 +23,6 @@ Hi I am <a href="https://www.linkedin.com/in/jovin-savio-a1037a8b/" >Jovin Savio
 * [Chapter 4](https://jovinsav.github.io/Rosworkshop/chapter4.html)
 * [Chapter 5](https://jovinsav.github.io/Rosworkshop/chapter5.html)
 * [Chapter 6](https://jovinsav.github.io/Rosworkshop/chapter6.html)
-* [Chapter 7](https://jovinsav.github.io/Rosworkshop/chapter7.html)
+* [Chapter 7.0](https://jovinsav.github.io/Rosworkshop/chapter7.html)
+* [Chapter 7.1](https://jovinsav.github.io/Rosworkshop/chapter7.1.html)
 * [Chapter 7.2](https://jovinsav.github.io/Rosworkshop/chapter7.2.html)

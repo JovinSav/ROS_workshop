@@ -181,3 +181,13 @@ sudo apt-get install ros-melodic-joint_state_publisher_gui
  ```bash
 roslaunch roslaunch roslaunch rosbasics urdf.launch model:=box.urdf
  ```
+
+<div align="left">
+  <a href="https://jovinsav.github.io/Rosworkshop/chapter6.html">Back to:Chapter 6</a>
+</div>
+
+<div align="right">
+  <a href="https://jovinsav.github.io/Rosworkshop/chapter7.1.html">Back to:Chapter 7.1</a>
+</div>
+
+
